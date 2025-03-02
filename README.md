@@ -11,7 +11,7 @@ Olá, eu sou o Ygor Gonzaga, tenho 18 anos e sou natural de São Paulo. Concluí
 <a href="mailto:oygorgonzaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Olá, eu sou o Ygor Gonzaga, tenho 18 anos e sou natural de São Paulo. Concluí
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 

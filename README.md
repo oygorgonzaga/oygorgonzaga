@@ -10,14 +10,14 @@
 </div><br>
 
 ### GitHub Stats
-
+<p>
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/anacristinaneves">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=oygorgonzaga&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=highcontrast"/>
   </a>
 </div>
-    
+</p>
 ### Contact
 
 <div> 

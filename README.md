@@ -46,7 +46,7 @@ Olá, eu sou o Ygor Gonzaga, tenho 18 anos e sou natural de São Paulo. Concluí
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="120" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=oygorgonzaga&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -54,7 +54,7 @@ Olá, eu sou o Ygor Gonzaga, tenho 18 anos e sou natural de São Paulo. Concluí
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oygorgonzaga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
